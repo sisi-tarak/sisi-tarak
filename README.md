@@ -9,7 +9,7 @@ I am Full-stack Web Developer, Tech Lead & Tech Enthusiast from 🛕 India 🇮�
 
 - 🧑🏻‍🎓 | Dip UG @svec'23 CME
 - 🎯 | Web Developer @sisitarakk
-- 🧑🏻‍💻 | Full Stack Developer @loading
+- 🧑🏻‍💻 | Full Stack Developer
 - ✊ | Student Ambassador @Mass Coders
 
 
