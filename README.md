@@ -7,13 +7,13 @@
 
 I am Full-stack Web Developer, Tech Lead & Tech Enthusiast from 🛕 India 🇮🇳.
 
-- 🧑🏻‍🎓 | Dip UG @svec'23 CME
+- 🧑🏻‍🎓 | BTech 2@SVEC'2024-27
 - 🎯 | Web Developer @sisitarakk
 - 🧑🏻‍💻 | Full Stack Developer
 - ✊ | Student Ambassador @Mass Coders
 
 
-(![image](https://github.com/user-attachments/assets/3dcdf231-101c-4a34-a22e-515a152d7dc7)
+![image](https://github.com/user-attachments/assets/3dcdf231-101c-4a34-a22e-515a152d7dc7)
 
 
 
