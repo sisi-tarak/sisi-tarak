@@ -13,7 +13,7 @@ I am Full-stack Web Developer, Tech Lead & Tech Enthusiast from 🛕 India 🇮�
 - ✊ | Student Ambassador @Mass Coders
 
 
-![git](![image](https://github.com/user-attachments/assets/3dcdf231-101c-4a34-a22e-515a152d7dc7)
+(![image](https://github.com/user-attachments/assets/3dcdf231-101c-4a34-a22e-515a152d7dc7)
 
 
 
