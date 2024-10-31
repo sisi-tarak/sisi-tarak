@@ -13,7 +13,8 @@ I am Full-stack Web Developer, Tech Lead & Tech Enthusiast from 🛕 India 🇮�
 - ✊ | Student Ambassador @Mass Coders
 
 
-![git](https://github.com/sisi-tarak/sisi-tarak/assets/124027883/5e0032f9-38ae-4ee8-be78-4a0c9e1643eb)
+![git](![image](https://github.com/user-attachments/assets/3dcdf231-101c-4a34-a22e-515a152d7dc7)
+
 
 
 ### 👨‍💻 Social Platforms!!
