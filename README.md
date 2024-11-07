@@ -1,22 +1,5 @@
-### Hi there 👋
->      I am Sisindri Singamsetti alias sisi_tarak 😉
-
-
-
-### 🖥 About Mee!
-
-I am Full-stack Web Developer, Tech Lead & Tech Enthusiast from 🛕 India 🇮🇳.
-
-- 🧑🏻‍🎓 | BTech 2@SVEC'2024-27
-- 🎯 | Web Developer @sisitarakk
-- 🧑🏻‍💻 | Full Stack Developer
-- ✊ | Student Ambassador @Mass Coders
-
-
-![image](https://github.com/user-attachments/assets/3dcdf231-101c-4a34-a22e-515a152d7dc7)
-
 <h1 align="center">Hi 👋, I'm Sisindri Singamsetti</h1>
-<h3 align="center">👋 Hi there! I'm Sisindri Singamsetti, a passionate frontend developer from India with a strong focus on creating visually engaging and user-friendly web applications. Currently pursuing my B.Tech in Information Technology at Sree Venkateswara College of Engineering, I'm in my second year, fully committed to expanding my skills and contributing to the tech community. 💼 I’ve worked on 7+ projects, ranging from full-stack applications to customized solutions for clients, including work for US clients. My expertise lies in frontend technologies like React, Tailwind CSS, and JavaScript, and I'm now diving into backend development with NodeJS and ExpressJS to become a well-rounded full-stack developer. 🎓 Academically, I completed my 10th grade at ZP High School Bhakarapeta with a high score of 598 out of 600, followed by a diploma at Sree Vidyanikethan Engineering College with an 86.86% score. This foundation, along with my hands-on experience, helped me build confidence and gain recognition, including being selected for the State Level Project Expo in 2022. 🚀 I'm the co-founder of Webortex, a startup dedicated to web and app development. We’re also running a Student Incubator Program to equip aspiring developers with real-world skills and project experience, bridging the gap between college learning and industry demands. 🌱 Alongside my work, I'm also the Web Lead for the Google Developer Group (GDG) at my college, where I support and mentor peers in tech. My focus is on continuous learning, sharing knowledge, and growing as a developer.</h3>
+<h6 align="center">👋 Hi there! I'm Sisindri Singamsetti, a passionate frontend developer from India with a strong focus on creating visually engaging and user-friendly web applications. Currently pursuing my B.Tech in Information Technology at Sree Venkateswara College of Engineering, I'm in my second year, fully committed to expanding my skills and contributing to the tech community. 💼 I’ve worked on 7+ projects, ranging from full-stack applications to customized solutions for clients, including work for US clients. My expertise lies in frontend technologies like React, Tailwind CSS, and JavaScript, and I'm now diving into backend development with NodeJS and ExpressJS to become a well-rounded full-stack developer. 🎓 Academically, I completed my 10th grade at ZP High School Bhakarapeta with a high score of 598 out of 600, followed by a diploma at Sree Vidyanikethan Engineering College with an 86.86% score. This foundation, along with my hands-on experience, helped me build confidence and gain recognition, including being selected for the State Level Project Expo in 2022. 🚀 I'm the co-founder of Webortex, a startup dedicated to web and app development. We’re also running a Student Incubator Program to equip aspiring developers with real-world skills and project experience, bridging the gap between college learning and industry demands. 🌱 Alongside my work, I'm also the Web Lead for the Google Developer Group (GDG) at my college, where I support and mentor peers in tech. My focus is on continuous learning, sharing knowledge, and growing as a developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sisi-tarak&label=Profile%20views&color=0e75b6&style=flat" alt="sisi-tarak" /> </p>
 
