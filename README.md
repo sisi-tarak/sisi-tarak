@@ -6,7 +6,7 @@
 - 💻 I have worked on **7+ projects** in frontend and full-stack development, using **React, Tailwind CSS, and JavaScript**.
 - 🌱 Currently learning backend development with **NodeJS and ExpressJS**.
 - 🚀 I co-founded **Webortex**, a startup focused on web and app development.
-- 📚 At Webortex, we run a **Student Incubator Program** to help students learn real-world skills through projects.
+- 📚 At College, we run a **Student Incubator Program** to help students learn real-world skills through projects.
 - 🌐 I’m also the **Web Lead** for my college’s **Google Developer Group (GDG)**, where I mentor others in tech.
 
 </p>
