@@ -74,6 +74,18 @@
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sisi-tarak&locale=en&hide_title=false&layout=compact&card_width=320&border_radius=5&langs_count=8&theme=dark&hide_border=false&order=2" height="130" width="320" alt="languages graph" />
 </div>
+
+<h3 align="left"> 🗂️ Highlight Projects </h3>
+
+<a href="https://github.com/sisi-tarak">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sisi-tarak&repo=Git-Cheat-Sheet&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="DA-RNN" />
+</a>
+
+<a href="https://github.com/Zhenye-Na/crnn-pytorch">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zhenye-na&repo=react-interview-questions&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="crnn-pytorch" />
+</a>
+
+
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/gnanasekhar"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/gnanasekhar" /></a></p></div>
 
