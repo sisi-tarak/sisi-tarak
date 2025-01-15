@@ -48,6 +48,7 @@
 
 ###
 
+
 <div align="left">
   <a href="https://youtube.com/@sisi-tarakk">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
@@ -64,6 +65,18 @@
 </div>
 
 ###
+
+<br clear="both">
+
+  <img src="https://avatars.githubusercontent.com/u/124027883?v=4" alt="Sisindri Singamsetti" align="right" height="250" />
+
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sisi-tarak&locale=en&hide_title=false&layout=compact&card_width=320&border_radius=5&langs_count=8&theme=dark&hide_border=false&order=2" height="130" width="320" alt="languages graph" />
+</div>
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/gnanasekhar"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/gnanasekhar" /></a></p></div>
+
 
 <!--
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
