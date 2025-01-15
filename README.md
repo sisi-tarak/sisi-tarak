@@ -12,11 +12,16 @@
 </p>
 
  <div>
- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sisi-tarak&show_icons=true&locale=en&layout=compact" alt="sisi-tarak" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sisi-tarak&show_icons=true&locale=en&layout=compact" alt="sisi-tarak" /></p>
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=sisi-tarak&show_icons=true&locale=en" alt="sisi-tarak" /></p>
 
-<p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=sisi-tarak&" alt="sisi-tarak" /></p>
+<p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=sisi-tarak&" alt="sisi-tarak" /></p> 
+<div align="left">
+ 
+  <img src="https://streak-stats.demolab.com?user=sisitarak&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="140" width="320" alt="streak graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sisitarak&locale=en&hide_title=false&layout=compact&card_width=320&border_radius=5&langs_count=8&theme=dark&hide_border=false&order=2" height="130" width="320" alt="languages graph" />
+</div>
 </div>
 
 
@@ -56,7 +61,7 @@
 ---
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/https://buymeacoffee.com/sisitarak"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buymeacoffee.com/sisitarak" /></a></p><br><be>
+<p><a href="https://buymeacoffee.com/sisitarak"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buymeacoffee.com/sisitarak" /></a></a><a href="[https://ko-fi.com/https://ko-fi.com/gnanasekhar](https://buymeacoffee.com/sisitarak)"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="https://buymeacoffee.com/sisitarak" /></a></p><br><be>
 <br/>
 
 
