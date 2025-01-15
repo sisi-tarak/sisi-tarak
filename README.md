@@ -38,7 +38,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sisi-tarak&label=Profile%20views&color=0e75b6&style=flat" alt="sisi-tarak" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sisi-tarak" alt="sisi-tarak" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy" ><img src="https://github-profile-trophy.vercel.app/?username=sisi-tarak&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" alt="sisi-tarak" /></a> </p>
 
 <br/>
 
