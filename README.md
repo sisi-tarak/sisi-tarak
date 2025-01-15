@@ -1,6 +1,3 @@
-<h1 align="center">Hi 👋, I'm Sisindri Singamsetti</h1>
-
-
 <h2 align="left">Hi 👋! I'm Sisindri Singamsetti...</h2>
 
 <p align="left">
@@ -66,8 +63,6 @@
   </a>
 </div>
 
-###
 
-<img align="right" height="150" src="https://avatars.githubusercontent.com/u/124027883?v=4"  />
 
 ###
