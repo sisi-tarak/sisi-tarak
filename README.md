@@ -63,6 +63,130 @@
   </a>
 </div>
 
+###
 
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+const anmol = {
+    pronouns: "He" | "Him",
+    code: ["TypeScript", "Javascript", "Python", "Dart"],
+    askMeAbout: ["web dev", "app dev", "cloud computing", "UI/UX", "tech trends"],
+    technologies: {
+        frontEnd: {
+            js: ["React", "Next.js"],
+            css: ["Sass", "Tailwind", "Bootstrap"],
+            uiLibraries: ["Material UI", "Ant Design", "Chakra UI"],
+        },
+        backEnd: {
+            js: ["Node", "Express", "NestJS"],
+            python: ["Flask"],
+        },
+        mobileApp: {
+            crossPlatform: ["Flutter"],
+        },
+        devOps: ["Docker🐳", "CI/CD", "Nginx", "GitHub Actions"],
+        cloudServices: {
+            aws: ["AWS Fargate", "EC2", "S3", "Lambda", "CloudWatch", "RDS"],
+        },
+        databases: ["PostgreSQL", "MongoDB", "SQLite", "Firebase Realtime DB", "redis"],
+        misc: ["Socket.IO", "REST APIs", "WebSockets", "Cloud Functions"],
+        generativeAI: ["GPT", "Vectorization"],
+    },
+    architecture: {
+        frontEnd: ["SPA", "SSR"],
+        backEnd: ["microservices", "monolithic", "serverless"],
+        devOps: ["CloudFormation", "Serverless Framework"],
+        databases: ["Relational", "NoSQL", "In-memory"],
+    },
+    currentFocus: "Leading a way in generative AI innovation",
+    funFact: "I can debug faster with a coffee in hand!"
+};
+```
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+
+---
+<!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C568%20hrs%2056%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-831-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.7%20million%20lines%20of%20code-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 256.6 kB Used in GitHub's Storage 
+ > 
+> 🏆 12 Contributions in the Year 2025
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 22 Public Repositories 
+ > 
+> 🔑 30 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                767 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.60 % 
+🌆 Daytime                1862 commits        ██████████░░░░░░░░░░░░░░░   40.30 % 
+🌃 Evening                1363 commits        ███████░░░░░░░░░░░░░░░░░░   29.50 % 
+🌙 Night                  628 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.59 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   585 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.66 % 
+Tuesday                  642 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.90 % 
+Wednesday                737 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.95 % 
+Thursday                 616 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
+Friday                   487 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.54 % 
+Saturday                 598 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.94 % 
+Sunday                   955 commits         █████░░░░░░░░░░░░░░░░░░░░   20.67 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+TypeScript               31 hrs 43 mins      ████████████████████░░░░░   78.50 % 
+JavaScript               5 hrs 56 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.72 % 
+JSON                     48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
+SCSS                     31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
+Image (svg)              23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
+
+🔥 Editors: 
+WebStorm                 40 hrs 24 mins      █████████████████████████   99.99 % 
+PhpStorm                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+
+💻 Operating System: 
+Mac                      40 hrs 24 mins      █████████████████████████   100.00 % 
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               33 repos            ███████████░░░░░░░░░░░░░░   4.31 % 
+TypeScript               9 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
+CSS                      7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.97 % 
+Python                   5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
+Dart                     5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
+```
+
+
+
+
+ Last Updated on 15/01/2025 00:30:26 UTC
+<!--END_SECTION:waka-->
+
+**These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
+
+NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
 
 ###
+<br/> <br/> <br/> 
