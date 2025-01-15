@@ -65,7 +65,7 @@
 
 ###
 
-
+<!--
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
@@ -107,8 +107,9 @@ const anmol = {
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
----
-<!--START_SECTION:waka-->
+--- -->
+<!--START_SECTION:waka--> 
+<!--
 ![Code Time](http://img.shields.io/badge/Code%20Time-3%2C568%20hrs%2056%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-831-blue)
@@ -181,12 +182,12 @@ Dart                     5 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 15/01/2025 00:30:26 UTC
+ Last Updated on 15/01/2025 00:30:26 UTC -->
 <!--END_SECTION:waka-->
-
+<!--
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
 
-NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
+NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub. -->
 
 ###
 <br/> <br/> <br/> 
