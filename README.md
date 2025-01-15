@@ -48,7 +48,6 @@
 
 ###
 
-
 <div align="left">
   <a href="https://youtube.com/@sisi-tarakk">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
@@ -71,8 +70,45 @@
   <img src="https://avatars.githubusercontent.com/u/124027883?v=4" alt="Sisindri Singamsetti" align="right" height="250" />
 
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sisi-tarak&locale=en&hide_title=false&layout=compact&card_width=320&border_radius=5&langs_count=8&theme=dark&hide_border=false&order=2" height="130" width="320" alt="languages graph" />
+<h2>📊 Stats and Activity</h2>
+
+  <h3>🔥 Streak Stats</h3>
+
+  <!-- GitHub Readme Streak Stats - https://github.com/sisi-tarak/github-readme-streak-stats -->
+  <p>
+    <a href="https://github.com/sisi-tarak">
+      <!-- Use https://streak-stats.demolab.com or self-host with your own Vercel app - visit https://git.io/streak-stats for instructions -->
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="sisi-tarak's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=sisi-tarak&theme=monokai-metallian&hide_border=true&short_numbers=true"/>
+    </a>
+    <p>🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
+  </p>
+
+  <h3>💻 GitHub Profile Stats</h3>
+
+  <!-- https://github.com/anuraghazra/github-readme-stats -->
+
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="sisi-tarak's Github Stats" src="https://sisi-tarak-github-readme-stats.vercel.app/api/?username=sisi-tarak&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="sisi-tarak's Top Languages" src="https://sisi-tarak-github-readme-stats.vercel.app/api/top-langs/?username=sisi-tarak&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+<br/>
+
+<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
+  <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="sisi-tarak's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=sisi-tarak&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+
+  <h3>⚡ Recent GitHub Activity</h3>
+
+  <!-- https://github.com/jamesgeorge007/github-activity-readme -->
+  <!--START_SECTION:activity-->
+
+1. 🎉 Merged PR [#370](https://github.com/sisi-tarak/readme-typing-svg/pull/370) in [sisi-tarak/readme-typing-svg](https://github.com/sisi-tarak/readme-typing-svg)
+2. 🎉 Merged PR [#369](https://github.com/sisi-tarak/readme-typing-svg/pull/369) in [sisi-tarak/readme-typing-svg](https://github.com/sisi-tarak/readme-typing-svg)
+3. 🎉 Merged PR [#366](https://github.com/sisi-tarak/readme-typing-svg/pull/366) in [sisi-tarak/readme-typing-svg](https://github.com/sisi-tarak/readme-typing-svg)
+4. ❌ Closed PR [#364](https://github.com/sisi-tarak/readme-typing-svg/pull/364) in [sisi-tarak/readme-typing-svg](https://github.com/sisi-tarak/readme-typing-svg)
+5. 🗣 Commented on [#364](https://github.com/sisi-tarak/readme-typing-svg/issues/364) in [sisi-tarak/readme-typing-svg](https://github.com/sisi-tarak/readme-typing-svg)
+<!--END_SECTION:activity-->
+
 </div>
 
 <h3 align="left"> 🗂️ Highlight Projects </h3>
@@ -81,17 +117,15 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sisi-tarak&repo=Git-Cheat-Sheet&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="DA-RNN" />
 </a>
 
-<a href="https://github.com/Zhenye-Na/crnn-pytorch">
+<a href="https://github.com/sisi-tarak">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sisi-tarak&repo=react-interview-questions&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="crnn-pytorch" />
 </a>
 
-
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/gnanasekhar"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/gnanasekhar" /></a></p></div>
-
+<p><a href="https://www.buymeacoffee.com/sisitarak"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/sisitarak" /></a></p></div>
 
 <!--
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 
 ```javascript
 const anmol = {
@@ -133,7 +167,7 @@ const anmol = {
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
 --- -->
-<!--START_SECTION:waka--> 
+<!--START_SECTION:waka-->
 <!--
 ![Code Time](http://img.shields.io/badge/Code%20Time-3%2C568%20hrs%2056%20mins-blue)
 
@@ -141,67 +175,67 @@ const anmol = {
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.7%20million%20lines%20of%20code-blue)
 
-**🐱 My GitHub Data** 
+**🐱 My GitHub Data**
 
-> 📦 256.6 kB Used in GitHub's Storage 
- > 
+> 📦 256.6 kB Used in GitHub's Storage
+ >
 > 🏆 12 Contributions in the Year 2025
- > 
+ >
 > 🚫 Not Opted to Hire
- > 
-> 📜 22 Public Repositories 
- > 
-> 🔑 30 Private Repositories 
- > 
-**I'm an Early 🐤** 
+ >
+> 📜 22 Public Repositories
+ >
+> 🔑 30 Private Repositories
+ >
+**I'm an Early 🐤**
 
 ```text
-🌞 Morning                767 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.60 % 
-🌆 Daytime                1862 commits        ██████████░░░░░░░░░░░░░░░   40.30 % 
-🌃 Evening                1363 commits        ███████░░░░░░░░░░░░░░░░░░   29.50 % 
-🌙 Night                  628 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.59 % 
+🌞 Morning                767 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.60 %
+🌆 Daytime                1862 commits        ██████████░░░░░░░░░░░░░░░   40.30 %
+🌃 Evening                1363 commits        ███████░░░░░░░░░░░░░░░░░░   29.50 %
+🌙 Night                  628 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.59 %
 ```
-📅 **I'm Most Productive on Sunday** 
+📅 **I'm Most Productive on Sunday**
 
 ```text
-Monday                   585 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.66 % 
-Tuesday                  642 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.90 % 
-Wednesday                737 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.95 % 
-Thursday                 616 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
-Friday                   487 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.54 % 
-Saturday                 598 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.94 % 
-Sunday                   955 commits         █████░░░░░░░░░░░░░░░░░░░░   20.67 % 
+Monday                   585 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.66 %
+Tuesday                  642 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.90 %
+Wednesday                737 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.95 %
+Thursday                 616 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.33 %
+Friday                   487 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.54 %
+Saturday                 598 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.94 %
+Sunday                   955 commits         █████░░░░░░░░░░░░░░░░░░░░   20.67 %
 ```
 
 
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 🕑︎ Time Zone: Asia/Kolkata
 
-💬 Programming Languages: 
-TypeScript               31 hrs 43 mins      ████████████████████░░░░░   78.50 % 
-JavaScript               5 hrs 56 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.72 % 
-JSON                     48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
-SCSS                     31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
-Image (svg)              23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
+💬 Programming Languages:
+TypeScript               31 hrs 43 mins      ████████████████████░░░░░   78.50 %
+JavaScript               5 hrs 56 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.72 %
+JSON                     48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 %
+SCSS                     31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 %
+Image (svg)              23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 %
 
-🔥 Editors: 
-WebStorm                 40 hrs 24 mins      █████████████████████████   99.99 % 
-PhpStorm                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+🔥 Editors:
+WebStorm                 40 hrs 24 mins      █████████████████████████   99.99 %
+PhpStorm                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 
-💻 Operating System: 
-Mac                      40 hrs 24 mins      █████████████████████████   100.00 % 
+💻 Operating System:
+Mac                      40 hrs 24 mins      █████████████████████████   100.00 %
 ```
 
-**I Mostly Code in JavaScript** 
+**I Mostly Code in JavaScript**
 
 ```text
-JavaScript               33 repos            ███████████░░░░░░░░░░░░░░   4.31 % 
-TypeScript               9 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
-CSS                      7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.97 % 
-Python                   5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
-Dart                     5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
+JavaScript               33 repos            ███████████░░░░░░░░░░░░░░   4.31 %
+TypeScript               9 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.54 %
+CSS                      7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.97 %
+Python                   5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 %
+Dart                     5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 %
 ```
 
 
@@ -215,4 +249,5 @@ Dart                     5 repos             ██░░░░░░░░░�
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub. -->
 
 ###
-<br/> <br/> <br/> 
+
+<br/> <br/> <br/>
