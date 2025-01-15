@@ -67,11 +67,13 @@
 
 <br clear="both">
 
-  <img src="https://avatars.githubusercontent.com/u/124027883?v=4" alt="Sisindri Singamsetti" align="right" height="250" />
+  
 
 <h2>📊 Stats and Activity</h2>
 
   <h3>🔥 Streak Stats</h3>
+
+  <img src="https://avatars.githubusercontent.com/u/124027883?v=4" alt="Sisindri Singamsetti" align="right" height="250" />
 
   <!-- GitHub Readme Streak Stats - https://github.com/sisi-tarak/github-readme-streak-stats -->
   <p>
