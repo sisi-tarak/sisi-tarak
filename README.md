@@ -1,14 +1,14 @@
 <h2 align="left">Hi 👋! I'm Sisindri Singamsetti...</h2>
 
 
-
+<!--
 - 👋 Hi, I’m **Sisindri Singamsetti**, a web developer from India.
 - 💻 I have worked on **7+ projects** in frontend and full-stack development, using **React, Tailwind CSS, Material UI, NodeJs & MongoDB**.
 - 🌱 Currently learning backend development with **NodeJS and ExpressJS**.
 - 🚀 I co-founded & **COO** of **Webortex**, a startup focused on web and app development.
 - 🎓 I’m studying **B.Tech in Information Technology** at Sree Venkateswara College of Engineering (2nd year).
 - 📚 At College, we run a **Student Incubator Program** to help students learn real-world skills through projects.
-- 🌐 I’m also the **Web Lead** for my college’s **Google Developer Group (GDG)**, where I mentor others in tech.
+- 🌐 I’m also the **Web Lead** for my college’s **Google Developer Group (GDG)**, where I mentor others in tech. -->
 
 <br/>
 
