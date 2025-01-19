@@ -18,7 +18,7 @@
 
 
 <div align="left">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWdkbDkwZW1naTFwZmFzZnFreGE0aGdjN2szejF0OWNidHZ6c2gxNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" alt="Sisindri Singamsetti" align="right" height="auto" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWdkbDkwZW1naTFwZmFzZnFreGE0aGdjN2szejF0OWNidHZ6c2gxNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" alt="Sisindri Singamsetti" align="right" width="350px" height="auto" />
 
   <a href="https://youtube.com/@sisi-tarakk">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
