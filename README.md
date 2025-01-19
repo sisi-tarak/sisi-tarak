@@ -1,7 +1,11 @@
-<h2 align="left">Hi 👋! I'm Sisindri Singamsetti...</h2>
+
 
 
 <!--
+
+<h2 align="left">Hi 👋! I'm Sisindri Singamsetti...</h2>
+
+
 - 👋 Hi, I’m **Sisindri Singamsetti**, a web developer from India.
 - 💻 I have worked on **7+ projects** in frontend and full-stack development, using **React, Tailwind CSS, Material UI, NodeJs & MongoDB**.
 - 🌱 Currently learning backend development with **NodeJS and ExpressJS**.
@@ -14,6 +18,8 @@
 
 
 <div align="left">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWdkbDkwZW1naTFwZmFzZnFreGE0aGdjN2szejF0OWNidHZ6c2gxNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" alt="Sisindri Singamsetti" align="right" height="auto" />
+
   <a href="https://youtube.com/@sisi-tarakk">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   </a>
@@ -46,7 +52,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  /> <br/>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
   <img width="12" />
@@ -74,8 +80,7 @@
 
   <h3>🔥 Streak Stats</h3>
 
-  <img src="https://avatars.githubusercontent.com/u/124027883?v=4" alt="Sisindri Singamsetti" align="right" height="250" />
-
+  
   <p>
     <a href="https://github.com/sisi-tarak">
       <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="sisi-tarak's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=sisi-tarak&theme=sunset-gradient&hide_border=true&short_numbers=true&background=1F222E&sideLabels=F8D866&currStreakLabel=F8D866&dates=909FAF&currStreakNum=FFFFFF&sideNums=FFFFFF&ring=F8D866&fire=F8D866"/>
