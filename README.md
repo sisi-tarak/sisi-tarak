@@ -1,18 +1,35 @@
 <h2 align="left">Hi 👋! I'm Sisindri Singamsetti...</h2>
 
-<p align="left">
 
-- 👋 Hi, I’m **Sisindri Singamsetti**, a frontend developer from India.
-- 🎓 I’m studying **B.Tech in Information Technology** at Sree Venkateswara College of Engineering (2nd year).
-- 💻 I have worked on **7+ projects** in frontend and full-stack development, using **React, Tailwind CSS, and JavaScript**.
+
+- 👋 Hi, I’m **Sisindri Singamsetti**, a web developer from India.
+- 💻 I have worked on **7+ projects** in frontend and full-stack development, using **React, Tailwind CSS, Material UI, NodeJs & MongoDB**.
 - 🌱 Currently learning backend development with **NodeJS and ExpressJS**.
-- 🚀 I co-founded **Webortex**, a startup focused on web and app development.
+- 🚀 I co-founded & **COO** of **Webortex**, a startup focused on web and app development.
+- 🎓 I’m studying **B.Tech in Information Technology** at Sree Venkateswara College of Engineering (2nd year).
 - 📚 At College, we run a **Student Incubator Program** to help students learn real-world skills through projects.
 - 🌐 I’m also the **Web Lead** for my college’s **Google Developer Group (GDG)**, where I mentor others in tech.
 
-</p>
+<br/>
+
+
+<div align="left">
+  <a href="https://youtube.com/@sisi-tarakk">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  </a>
+  <a href="https://www.instagram.com/sisi_tarakk/">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="mailto:sisindrisingamsetti@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/sisitarak/">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
 
 ###
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -48,22 +65,6 @@
 
 ###
 
-<div align="left">
-  <a href="https://youtube.com/@sisi-tarakk">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  </a>
-  <a href="https://www.instagram.com/sisi_tarakk/">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="mailto:sisindrisingamsetti@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/sisitarak/">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
 
 <br clear="both">
 
@@ -75,39 +76,28 @@
 
   <img src="https://avatars.githubusercontent.com/u/124027883?v=4" alt="Sisindri Singamsetti" align="right" height="250" />
 
-  <!-- GitHub Readme Streak Stats - https://github.com/sisi-tarak/github-readme-streak-stats -->
   <p>
     <a href="https://github.com/sisi-tarak">
-      <!-- Use https://streak-stats.demolab.com or self-host with your own Vercel app - visit https://git.io/streak-stats for instructions -->
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="sisi-tarak's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=sisi-tarak&theme=monokai-metallian&hide_border=true&short_numbers=true"/>
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="sisi-tarak's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=sisi-tarak&theme=sunset-gradient&hide_border=true&short_numbers=true&background=1F222E&sideLabels=F8D866&currStreakLabel=F8D866&dates=909FAF&currStreakNum=FFFFFF&sideNums=FFFFFF&ring=F8D866&fire=F8D866"/>
     </a>
   </p>
 
   <h3>💻 GitHub Profile Stats</h3>
 
-  <!-- https://github.com/sisi-tarak -->
 
-<a href="https://github.com/sisi-tarak"><img alt="sisi-tarak's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=sisi-tarak&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-<a href="https://github.com/sisi-tarak"><img alt="sisi-tarak's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sisi-tarak&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+
+<a href="https://github.com/sisi-tarak"><img alt="sisi-tarak's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=sisi-tarak&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F8D866&icon_color=FFFFFF" height="192px"/></a>
+<a href="https://github.com/sisi-tarak"><img alt="sisi-tarak's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sisi-tarak&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F8D866&icon_color=FFFFFF&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
 <br/>
 
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
-  <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="sisi-tarak's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=sisi-tarak&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="sisi-tarak's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=sisi-tarak&bg_color=1F222E&color=FFFFFF&line=F8D866&point=FFFFFF&hide_border=true" /></a>
 
-  <h3>⚡ Recent GitHub Activity</h3>
 
-  <!-- https://github.com/jamesgeorge007/github-activity-readme -->
-  <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#370](https://github.com/sisi-tarak/readme-typing-svg/pull/370) in [sisi-tarak/readme-typing-svg](https://github.com/sisi-tarak/readme-typing-svg)
-2. 🎉 Merged PR [#369](https://github.com/sisi-tarak/readme-typing-svg/pull/369) in [sisi-tarak/readme-typing-svg](https://github.com/sisi-tarak/readme-typing-svg)
-3. 🎉 Merged PR [#366](https://github.com/sisi-tarak/readme-typing-svg/pull/366) in [sisi-tarak/readme-typing-svg](https://github.com/sisi-tarak/readme-typing-svg)
-4. ❌ Closed PR [#364](https://github.com/sisi-tarak/readme-typing-svg/pull/364) in [sisi-tarak/readme-typing-svg](https://github.com/sisi-tarak/readme-typing-svg)
-5. 🗣 Commented on [#364](https://github.com/sisi-tarak/readme-typing-svg/issues/364) in [sisi-tarak/readme-typing-svg](https://github.com/sisi-tarak/readme-typing-svg)
-<!--END_SECTION:activity-->
+
 
 </div>
 
