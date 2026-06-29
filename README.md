@@ -84,7 +84,7 @@
   <p>
     <a href="https://github.com/sisi-tarak">
       <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="sisi-tarak's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=sisi-tarak&theme=sunset-gradient&hide_border=true&short_numbers=true&background=1F222E&sideLabels=F8D866&currStreakLabel=F8D866&dates=909FAF&currStreakNum=FFFFFF&sideNums=FFFFFF&ring=F8D866&fire=F8D866&mode=weekly"/>
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="sisi-tarak's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=sisi-tarak&theme=sunset-gradient&hide_border=true&short_numbers=true&background=1F222E&sideLabels=F8D866&currStreakLabel=F8D866&dates=909FAF&currStreakNum=FFFFFF&sideNums=FFFFFF&ring=F8D866&fire=F8D866&mode=daily"/>
+      
     </a>
   </p>
 
